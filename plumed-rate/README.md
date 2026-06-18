@@ -1,0 +1,1 @@
+This directory contains the 3 plumed files used to simulate first passage times for the transition of CIP to SSIP. The .npy files contain the rescaled first passage times for the different systems (which can be used to obtain the eCDF).
