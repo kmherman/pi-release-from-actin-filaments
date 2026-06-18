@@ -1,0 +1,1 @@
+The .csv files contain all of the residue-residue distances (as defined in the text) for the interior subunit, the barbed end subunit, and the pointed end subunit. These values were extracted using MDAnalysis over two unbiased simulations of ~800 ns each.
