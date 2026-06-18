@@ -1,0 +1,1 @@
+The .ini file is an example of an input file used to compute the phosphate cavity volume using POVME3. The .csv files contain all of the phosphate cavity volumes over unbiased MD simulations, along with dihedral, scissor angle, and distances between the four loops which border the phosphate cavity.
