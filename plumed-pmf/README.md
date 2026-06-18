@@ -1,0 +1,1 @@
+These directories contain the plumed input files used to run WT-MetaD simulations to obtain the PMF of the ion pair dissociation in water and also to bias the Mg-Pi distance to sample egress pathways from the SSIP state.
